@@ -26,6 +26,7 @@ I am an aspiring **AI Engineer** passionate about building autonomous agents and
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2E5E5E?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -34,16 +35,3 @@ I am an aspiring **AI Engineer** passionate about building autonomous agents and
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhatthardik4&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhatthardik4&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatthardik4&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-
-</div>
